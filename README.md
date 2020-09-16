@@ -1,6 +1,6 @@
 # Semi-Supervised Abductive Learning
 
-This is an anonymous repository for holding the sample code of the Semi-Supervised Abductive Learning framework for Theft Judicial Sentencing and CIFAR-10 Equation Decipherment experiments in _Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing_ in ICDM 2020.
+This is the repository for holding the sample code of the Semi-Supervised Abductive Learning framework for Theft Judicial Sentencing and CIFAR-10 Equation Decipherment experiments in _Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing_ in ICDM 2020.
 
 **This code is only tested in Linux environment.**
 

@@ -1,6 +1,6 @@
 # Semi-Supervised Abductive Learning for Theft Judicial Sentencing
 
-This is an anonymous repository for holding the sample code of the Semi-Supervised Abductive Learning framework for Theft Judicial Sentencing experiments in _Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing_ in ICDM 2020.
+This is the repository for holding the sample code of the Semi-Supervised Abductive Learning framework for Theft Judicial Sentencing experiments in _Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing_ in ICDM 2020.
 
 **This code is only tested in Linux environment.**
 
