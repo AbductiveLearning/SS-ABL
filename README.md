@@ -1,3 +1,5 @@
+🌟 **New!** [ABLkit](https://github.com/AbductiveLearning/ABLkit) released: A toolkit for Abductive Learning with high flexibility, user-friendly interface, and optimized performance. Welcome to try it out!🚀
+
 # Semi-Supervised Abductive Learning for Theft Judicial Sentencing
 
 This is the repository for holding the sample code of the Semi-Supervised Abductive Learning framework for Theft Judicial Sentencing experiments in _Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing_ in ICDM 2020.
